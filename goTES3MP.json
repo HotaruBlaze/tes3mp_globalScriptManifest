@@ -4,6 +4,6 @@
     "Source": "https://github.com/HotaruBlaze/goTES3MP",
     "description": "",
     "files": [
-        "../goTES3MP_Loader.lua"
+        "scripts/custom/goTES3MP_Loader.lua"
     ]
 }
