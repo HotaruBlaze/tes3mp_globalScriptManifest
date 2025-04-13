@@ -1,0 +1,9 @@
+{
+    "name": "goTES3MP",
+    "Author": "HotaruBlaze",
+    "Source": "https://github.com/HotaruBlaze/goTES3MP",
+    "description": "",
+    "files": [
+        "../goTES3MP_Loader.lua"
+    ]
+}
