@@ -1,0 +1,9 @@
+{
+    "name": "Portable Bedroll",
+    "Author": "rendeko",
+    "Source": "https://gitlab.com/rendeko/tes3mp-scripts",
+    "description": "A fallback configuration for the portableBedroll script.",
+    "files": [
+        "portableBedroll.lua"
+    ]
+}
