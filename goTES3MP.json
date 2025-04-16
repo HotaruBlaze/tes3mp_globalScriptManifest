@@ -1,9 +1,24 @@
 {
     "name": "goTES3MP",
-    "Author": "HotaruBlaze",
-    "Source": "https://github.com/HotaruBlaze/goTES3MP",
+    "author": "HotaruBlaze",
+    "repository": "https://github.com/HotaruBlaze/goTES3MP",
     "description": "",
     "files": [
-        "scripts/custom/goTES3MP_Loader.lua"
+        "goTES3MP_Loader.lua"
+    ],
+    "clonePath": "_goTES3MP_clone",
+    "moveMap": [
+        {
+            "source": "tes3mp/scripts/custom/goTES3MP",
+            "target": "goTES3MP"
+        },
+        {
+            "source": "tes3mp/scripts/custom/IrcBridge",
+            "target": "IrcBridge"
+        },
+        {
+            "source": "tes3mp/scripts/custom/goTES3MP_Loader.lua",
+            "target": "goTES3MP_Loader.lua"
+        }
     ]
 }
