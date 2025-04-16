@@ -1,0 +1,9 @@
+{
+    "name": "BagScript",
+    "author": "rickoff",
+    "repository": "https://github.com/rickoff/Tes3mp-0.8.x",
+    "description": "the bottomless bag script allows you to store additional items in a container directly available in the player's inventory",
+    "files": [
+        "BagScript/BagScript.lua"
+    ]
+}
