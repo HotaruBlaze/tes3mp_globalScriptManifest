@@ -1,0 +1,9 @@
+{
+    "name": "HSX",
+    "author": "HotaruBlaze",
+    "repository": "https://github.com/HotaruBlaze/TES3MP-HSX",
+    "description": "HSX is a lightweight, customizable event hook extender for TES3MP.",
+    "files": [
+        "HSX.lua"
+    ]
+}
